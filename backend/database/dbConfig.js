@@ -1,6 +1,5 @@
 import mongoose from "mongoose";
 import colors from 'colors';
-import {} from "dotenv";
 
 export const dbConnection = () => {
     mongoose
